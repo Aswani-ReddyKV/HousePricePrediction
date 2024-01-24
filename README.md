@@ -38,7 +38,7 @@ Model Building
 
 
 ## Conclusions
-- Number of features getting used in Ridge and Lasso
+- Number of features getting used in Ridge and Lasso\
     Features selected by Lasso: 138
     Features present in Ridge: 225
 
