@@ -40,7 +40,14 @@ Model Building
 ## Conclusions
 - Number of features getting used in Ridge and Lasso\
     Features selected by Lasso: 138\
-    Features present in Ridge: 225
+    Features present in Ridge: 225\
+\
+\
+\
+Optimal value of alpha for ridge regression	=>	0.5\
+Optimal value of alpha for lasso regression	=>	0.0001\
+Here are the metrics by having the above alpha values getting used.\
+ ![Alt text](image.png)
 
 
 ## Technologies Used
