@@ -45,7 +45,7 @@ Model Building
 \
 \
 Optimal value of alpha for ridge regression	=>	0.5\
-Optimal value of alpha for lasso regression	=>	0.0001\
+Optimal value of alpha for lasso regression	=>	0.0001
 
 
 ## Technologies Used
