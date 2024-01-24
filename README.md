@@ -13,18 +13,34 @@ Expectation from this assignment was to build a regression model using concepts 
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-Using techniques learnt in EDA and Liner regression module need to come out with analysis and identify attributes which are having influence on the bike rentals.
-Also need to come out with a prediction model for finding demand for shared bikes.</br>
-What are the independent variables present in the given data set and its impact on the bike rentals to be derived.
-By having all these details, it will be helpful for the bike rental management team on predicting the bike rentals and be prepared for effective business
+Using techniques learnt in EDA,Liner regression and Advanced regression modules need to come out with analysis and identify attributes which are having influence on the house sale price.
+The company wants to know:
+- Which variables are significant in predicting the price of a house, and
+- How well those variables describe the price of a house.
+
+Also, determine the optimal value of lambda for ridge and lasso regression
+
+Below set of steps where followed to meet the business goal in this assignment.
+- Data cleaning
+- EDA
+    - Univariate Analysis for categorical columns
+    - Univariate Analysis for Target variable
+    - Univariate Analysis for numerical columns
+    - Bivariate Analysis for numerical columns
+    - Bivariate Analysis for categorical columns
+    - Multivariate Analysis
+Data handling
+Model Cleaning
+Model Building
+    Linear Regerssion
+    Ridge Regerssion
+    Lasso Regerssion Model
+
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- Number of features getting used in Ridge and Lasso
+    Features selected by Lasso: 138
+    Features present in Ridge: 225
 
 
 ## Technologies Used
