@@ -1,6 +1,8 @@
 # Project Name
-> Outline a brief description of your project.
+> House Price Prediction
+A US-based housing company named Surprise Housing has decided to enter the Australian market. The company uses data analytics to purchase houses at a price below their actual values and flip them on at a higher price. For the same purpose, the company has collected a data set from the sale of houses in Australia.
 
+Expectation from this assignment was to build a regression model using concepts learnt in advanced regeressoin module by applying Regularisation concept and find the optimal value of lambda for ridge and lasso regression.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -11,12 +13,10 @@
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Using techniques learnt in EDA and Liner regression module need to come out with analysis and identify attributes which are having influence on the bike rentals.
+Also need to come out with a prediction model for finding demand for shared bikes.</br>
+What are the independent variables present in the given data set and its impact on the bike rentals to be derived.
+By having all these details, it will be helpful for the bike rental management team on predicting the bike rentals and be prepared for effective business
 
 ## Conclusions
 - Conclusion 1 from the analysis
