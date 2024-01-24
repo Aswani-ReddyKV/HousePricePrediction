@@ -28,25 +28,19 @@
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- Python - version 3.11.4
+- Pandas - version 1.5.3
+- Numpy - version 1.24.3
+- Seaborn - version 0.12.2
+- Matplotlib - version 3.7.1
+- sklearn - version 1.3.0
+- statsmodels - version 0.14.0
 
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
+As part of UpGrad course, casestudy on "Bike Sharing system" was taken up and applied the learnings we had from EDA module, Liner regression module, Advanced Regression.
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by @Aswani-ReddyKV - feel free to contact!
 
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
